@@ -1,1 +1,41 @@
-
+@font-face {
+ font-family: 'Neucha', cursive;
+ src: url:(https://fonts.googleapis.com/css2?family=Neucha&display=swap);
+}
+@font-face {
+ font-family: 'Open Sans', sans-serif;
+ src: url:(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap);
+}
+.title {
+  height: 258px;
+  width: 1138px;
+  left: 165px;
+  top: 100px;
+  border-radius: nullpx;
+}
+h1 {
+  font-size: 72px;}
+h2 {
+  font-size: 60px;}
+h3 {
+  font-size: 34px;}
+h1 h2 h3 {
+ line-height: 1.2em;}
+.header {
+  height: 914px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+}
+.nav {
+}
+.main {
+}
+.section {
+  text-align: center;
+  margin: 100px 0px 100px 0px;
+  max-width: 1110px;
+}
+.footer {
+}
